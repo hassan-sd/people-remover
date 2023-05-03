@@ -1,3 +1,4 @@
+* Patreon: https://www.patreon.com/sd_hassan
 # people-remover
 Python script to auto remove images if it contains more than one person
 
